@@ -123,6 +123,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="DecodeBitplaneCoder.cpp" />
+    <ClCompile Include="DecodeMagnitudeRefinementCoding.cpp" />
+    <ClCompile Include="DecodeRunLengthCoding.cpp" />
+    <ClCompile Include="DecodeSignCoding.cpp" />
+    <ClCompile Include="DecodeZeroCoding.cpp" />
+    <ClCompile Include="MagnitudeRefinementCoding.cpp" />
+    <ClCompile Include="RunLengthCoding.cpp" />
+    <ClCompile Include="SignCoding.cpp" />
+    <ClCompile Include="test.cpp" />
+    <ClCompile Include="ZeroCoding.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
